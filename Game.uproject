@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.17",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EpicLeaderboard",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"AllDesktop",
 		"LinuxNoEditor",
