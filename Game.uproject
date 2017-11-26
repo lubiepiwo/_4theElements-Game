@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "EpicLeaderboard",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
