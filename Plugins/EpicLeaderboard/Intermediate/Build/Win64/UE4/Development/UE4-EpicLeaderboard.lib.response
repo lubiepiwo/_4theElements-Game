@@ -1,8 +1,0 @@
-/NOLOGO
-/errorReport:prompt
-/MACHINE:x64
-/SUBSYSTEM:WINDOWS
-"C:\Users\Eduardo\Desktop\UE4Cesinf\4theElements-Game\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.cpp.obj"
-"C:\Users\Eduardo\Desktop\UE4Cesinf\4theElements-Game\Plugins\EpicLeaderboard\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\Module.EpicLeaderboard.gen.cpp.obj"
-"C:\Users\Eduardo\Desktop\UE4Cesinf\4theElements-Game\Intermediate\Build\Win64\UE4\Development\EpicLeaderboard\PCLaunch.rc.res"
-/OUT:"C:\Users\Eduardo\Desktop\UE4Cesinf\4theElements-Game\Plugins\EpicLeaderboard\Binaries\Win64\UE4-EpicLeaderboard.lib"
