@@ -11,6 +11,6 @@ Tras eliminar a ciertos enemigos de un elemento, una gema elemental aparecerá e
 
 La condición de victoria se basa en eliminar todos los portales y sobrevivir hasta la última ronda. Cada ronda termina después de un corto periodo de tiempo, y en cada comienzo de ronda es generada una nueva horda de enemigos, apareciendo más cuanto más haya avanzado la partida. La condición de derrota sucede si la vida de tu personaje baja hasta llegar a cero.
 
-##Aspectos técnicos
+## Aspectos técnicos
 El juego está desarrollado usando Unreal Engine 4, todos los assets son de libre uso o creados por nosotros. El estilo visual es principalmente low-poly, lo cual nos ha facilitado la creación de nuestros propios meshes para el juego.
 El póster ha sido creado usando Adobe Photoshop CC.
