@@ -14,3 +14,6 @@ La condición de victoria se basa en eliminar todos los portales y sobrevivir ha
 ## Aspectos técnicos
 El juego está desarrollado usando Unreal Engine 4, todos los assets son de libre uso o creados por nosotros. El estilo visual es principalmente low-poly, lo cual nos ha facilitado la creación de nuestros propios meshes para el juego.
 El póster ha sido creado usando Adobe Photoshop CC.
+
+## Descarga
+[Link de descarga del juego.](https://github.com/alu0100885613/UE4-Game-4TheElements/archive/master.zip)
